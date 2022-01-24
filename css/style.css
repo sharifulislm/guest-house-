@@ -12,3 +12,83 @@ p {
     font-size: 16px;
     font-family: poppins;
 }
+
+
+
+/* ----------------------------
+start section Our package 
+-------------------------------*/
+.card-body {
+    padding: 0px;
+    margin: 0;
+}
+/* .card-title-fucase h1, p {
+    padding: 0px;
+    margin: 0px;
+} */
+.card-title-fucase h1 {
+    font-size: 45px;
+    font-family: unset;
+    font-weight: 700;
+   
+}
+
+.color-text-card {
+    color: #848199 !important ;
+    color: #848199;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px !important ;
+    font-family: Poppins;
+
+}
+.active-item {
+    color: white !important ;
+
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px !important ;
+    font-family: Poppins;
+
+}
+
+.btn-style-card {
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 9px 55px;
+    background-color: #ffe8f6;
+    align-items: center;
+    border-radius: 24px;
+}
+.card-title-fucase h1 {
+    padding-bottom: 15px !important
+}
+.card.border-0.card-shadow2.active-item {
+    padding: 33px 7px;
+    background-color: #3F87F5;
+    color: white;
+    box-shadow: 0px 42px 34px rgb(63 135 245 / 25%);
+    border-radius: 26px;
+    position: relative;
+    bottom: 50px;
+    
+}
+.active-item :active {
+    background-color: #3F87F5 !important;
+    box-shadow: 0px 42px 34px rgb(63 135 245 / 25%);
+  }
+small.hot-item {
+    font-size: 12px;
+    font-weight: 900;
+    background-color: #FF4E4E;
+    position: relative;
+    left: 210px;
+    bottom: 42px;
+    padding: 3px 5px;
+    border-radius: 8px;
+}
+/* .card-shadow2-hover :hover {
+    background-color: yellow;
+   
+  } */
