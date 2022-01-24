@@ -108,6 +108,7 @@ start section Our package
     border: 1px solid #D5E5FB;
     padding: 30px 5px;
     font-size: 16px;
+    margin-bottom: 20px;
 }
 .icaon-box {
     padding-left: 20px;
@@ -115,4 +116,20 @@ start section Our package
 p.style-chodu {
     color: #7E848C;
     font-size: 10px;
+}
+.btn-group.b.d-flex.flex-column {
+    padding: 0 5px;
+}
+
+/* media start  */
+
+@media only screen and (max-width:688px) {
+
+
+
+    
+
+
+
+
 }
