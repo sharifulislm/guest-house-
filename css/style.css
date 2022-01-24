@@ -83,12 +83,36 @@ small.hot-item {
     font-weight: 900;
     background-color: #FF4E4E;
     position: relative;
-    left: 210px;
-    bottom: 42px;
+    left: 200px;
+    bottom: 48px;
     padding: 3px 5px;
     border-radius: 8px;
 }
 /* .card-shadow2-hover :hover {
     background-color: yellow;
    
-  } */
+  } *//* ----------------------------
+start section Our package 
+-------------------------------*/
+/* .btn-group {
+    width: 85%;
+  
+   
+    padding: 35px 10px;
+    font-size: 16px !important
+} */
+
+.btn-group {
+    width: 85%;
+
+    border: 1px solid #D5E5FB;
+    padding: 30px 5px;
+    font-size: 16px;
+}
+.icaon-box {
+    padding-left: 20px;
+}
+p.style-chodu {
+    color: #7E848C;
+    font-size: 10px;
+}
